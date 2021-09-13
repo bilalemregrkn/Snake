@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb5f8feffe8347b09d81a59df8e3e915, type: 3}
+  m_Name: ColorPalette 7
+  m_EditorClassIdentifier: 
+  wall: {r: 1, g: 0.89500326, b: 0, a: 1}
+  snake: {r: 0.21929511, g: 0.37308654, b: 0.6037736, a: 1}
+  tile: {r: 0.088437624, g: 0.08757565, b: 0.1509434, a: 1}
